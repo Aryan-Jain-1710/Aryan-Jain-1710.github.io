@@ -1,1 +1,3 @@
-## Computer Science Student @ Purdue University, West Lafayette
+# Aryan Jain
+
+### Computer Science Student @ Purdue University, West Lafayette
