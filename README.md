@@ -8,6 +8,8 @@
 <a href="https://www.linkedin.com/in/aryan-jain-cs/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+&emsp;
+&nbsp;
 <a href="mailto:aryanjain.1710@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
