@@ -2658,7 +2658,7 @@ input, select, textarea {
 	-webkit-flex-wrap: wrap;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
-	margin: -7em 0 2em 0;
+	margin: -4em 0 2em 0;
 }
 
 	.features article {
@@ -4057,7 +4057,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 
 				#header nav ul li {
 					display: inline-block;
-					margin-left: 2.5em;
+					margin-left: 1.75em;
 				}
 
 					#header nav ul li a, #header nav ul li span {
