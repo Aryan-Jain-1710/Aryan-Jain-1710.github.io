@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Roboto", Helvetica, sans-serif;
+		font-family: "Calibri", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -2820,7 +2820,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #e44c65;
+			background-color: #e44c6582;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -4056,9 +4056,11 @@ body.is-preload .items.onload-fade-in > * > .inner {
 			}
 
 				#header nav ul li {
+					font-size: large;
 					display: inline-block;
 					margin-left: 1.75em;
 				}
+
 
 					#header nav ul li a, #header nav ul li span {
 						border: 0;
@@ -4086,6 +4088,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 					#header nav ul li > ul {
 						display: none;
 					}
+
 
 	body.landing #page-wrapper {
 		padding-top: 0;
