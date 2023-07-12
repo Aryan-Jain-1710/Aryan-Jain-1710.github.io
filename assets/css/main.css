@@ -2364,7 +2364,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 100%;
 		}
 
 			.image.left img, .image.right img {
@@ -4056,7 +4056,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 			}
 
 				#header nav ul li {
-					font-size: large;
+					font-size: larger;
 					display: inline-block;
 					margin-left: 1.75em;
 				}
