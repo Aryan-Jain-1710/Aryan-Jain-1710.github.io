@@ -4488,7 +4488,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 		/* Spotlight */
 
 			.spotlight {
-				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
+				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.95);
 			}
 
 				.spotlight .image.main {
@@ -4515,7 +4515,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 		/* Banner */
 
 			#banner {
-				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
+				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.95);
 				min-height: calc(100vh - 44px);
 			}
 
