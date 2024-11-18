@@ -4645,7 +4645,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #181920;
+				background: rgba(15, 15, 15, 0.6);
 				padding: 0.75em 1.25em;
 			}
 
