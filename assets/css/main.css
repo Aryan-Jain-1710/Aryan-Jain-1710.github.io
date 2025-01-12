@@ -4429,7 +4429,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 		display: none;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 1000px) {
 
 		/* Basic */
 
@@ -4814,7 +4814,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   }
   
   /* 3) Media query: stack title/date on smaller screens */
-  @media (max-width: 980px) {
+  @media (max-width: 1024px) {
 	.experience-item {
 	  flex-direction: column;   /* Places the date below the title */
 	  align-items: flex-start;  /* Align text to the left */
